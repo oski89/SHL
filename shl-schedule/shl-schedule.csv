@@ -1,0 +1,363 @@
+GW,Vecka,Datum,Hemmalag,Bortalag
+1,38,2024-09-21,Frölunda HC,Leksands IF
+1,38,2024-09-21,Linköping HC,Brynäs IF
+1,38,2024-09-21,Växjö Lakers,HV71
+1,38,2024-09-21,Malmö Redhawks,Skellefteå AIK
+1,38,2024-09-21,Luleå Hockey,Timrå IK
+1,38,2024-09-21,Örebro Hockey,MoDo Hockey
+1,38,2024-09-21,Färjestad BK,Rögle BK
+2,39,2024-09-24,Luleå Hockey,Leksands IF
+2,39,2024-09-24,HV71,Skellefteå AIK
+2,39,2024-09-24,Timrå IK,Örebro Hockey
+2,39,2024-09-24,Rögle BK,Frölunda HC
+2,39,2024-09-24,Växjö Lakers,Färjestad BK
+2,39,2024-09-26,Skellefteå AIK,Växjö Lakers
+2,39,2024-09-26,MoDo Hockey,Malmö Redhawks
+2,39,2024-09-26,Leksands IF,Rögle BK
+2,39,2024-09-26,Färjestad BK,Timrå IK
+2,39,2024-09-26,Örebro Hockey,Brynäs IF
+2,39,2024-09-26,Frölunda HC,HV71
+2,39,2024-09-28,Timrå IK,Rögle BK
+2,39,2024-09-28,Örebro Hockey,Skellefteå AIK
+2,39,2024-09-28,Brynäs IF,Frölunda HC
+2,39,2024-09-28,MoDo Hockey,Leksands IF
+2,39,2024-09-28,Luleå Hockey,Färjestad BK
+2,39,2024-09-28,Linköping HC,HV71
+2,39,2024-09-28,Malmö Redhawks,Växjö Lakers
+3,40,2024-10-01,Luleå Hockey,Skellefteå AIK
+3,40,2024-10-01,Leksands IF,Timrå IK
+3,40,2024-10-01,Färjestad BK,Brynäs IF
+3,40,2024-10-01,Frölunda HC,Örebro Hockey
+3,40,2024-10-01,HV71,MoDo Hockey
+3,40,2024-10-01,Växjö Lakers,Linköping HC
+3,40,2024-10-01,Rögle BK,Malmö Redhawks
+3,40,2024-10-03,Malmö Redhawks,Luleå Hockey
+3,40,2024-10-03,Skellefteå AIK,Leksands IF
+3,40,2024-10-03,MoDo Hockey,Frölunda HC
+3,40,2024-10-03,Örebro Hockey,HV71
+3,40,2024-10-03,Timrå IK,Växjö Lakers
+3,40,2024-10-03,Linköping HC,Färjestad BK
+3,40,2024-10-03,Brynäs IF,Rögle BK
+3,40,2024-10-05,Skellefteå AIK,Linköping HC
+3,40,2024-10-05,HV71,Färjestad BK
+3,40,2024-10-05,Växjö Lakers,Brynäs IF
+3,40,2024-10-05,Leksands IF,Örebro Hockey
+3,40,2024-10-05,Timrå IK,MoDo Hockey
+3,40,2024-10-05,Frölunda HC,Malmö Redhawks
+3,40,2024-10-05,Rögle BK,Luleå Hockey
+4,41,2024-10-07,Malmö Redhawks,Linköping HC
+4,41,2024-10-10,Luleå Hockey,Örebro Hockey
+4,41,2024-10-10,MoDo Hockey,Växjö Lakers
+4,41,2024-10-10,Färjestad BK,Frölunda HC
+4,41,2024-10-10,Brynäs IF,Leksands IF
+4,41,2024-10-10,Linköping HC,Timrå IK
+4,41,2024-10-10,Rögle BK,Skellefteå AIK
+4,41,2024-10-10,Malmö Redhawks,HV71
+4,41,2024-10-12,Frölunda HC,Linköping HC
+4,41,2024-10-12,Brynäs IF,Malmö Redhawks
+4,41,2024-10-12,HV71,Rögle BK
+4,41,2024-10-12,Växjö Lakers,Leksands IF
+4,41,2024-10-12,Timrå IK,Skellefteå AIK
+4,41,2024-10-12,MoDo Hockey,Luleå Hockey
+4,41,2024-10-12,Örebro Hockey,Färjestad BK
+5,42,2024-10-15,Brynäs IF,MoDo Hockey
+5,42,2024-10-17,Luleå Hockey,Växjö Lakers
+5,42,2024-10-17,Skellefteå AIK,Brynäs IF
+5,42,2024-10-17,Färjestad BK,Malmö Redhawks
+5,42,2024-10-17,Leksands IF,HV71
+5,42,2024-10-17,Linköping HC,MoDo Hockey
+5,42,2024-10-17,Frölunda HC,Timrå IK
+5,42,2024-10-17,Rögle BK,Örebro Hockey
+5,42,2024-10-19,Luleå Hockey,Brynäs IF
+5,42,2024-10-19,HV71,Timrå IK
+5,42,2024-10-19,Rögle BK,Linköping HC
+5,42,2024-10-19,Malmö Redhawks,Örebro Hockey
+5,42,2024-10-19,MoDo Hockey,Skellefteå AIK
+5,42,2024-10-19,Färjestad BK,Leksands IF
+5,42,2024-10-19,Växjö Lakers,Frölunda HC
+6,43,2024-10-22,Linköping HC,Skellefteå AIK
+6,43,2024-10-24,Skellefteå AIK,Färjestad BK
+6,43,2024-10-24,MoDo Hockey,Rögle BK
+6,43,2024-10-24,Timrå IK,Malmö Redhawks
+6,43,2024-10-24,Leksands IF,Linköping HC
+6,43,2024-10-24,Örebro Hockey,Växjö Lakers
+6,43,2024-10-24,Frölunda HC,Luleå Hockey
+6,43,2024-10-24,Brynäs IF,HV71
+6,43,2024-10-26,Skellefteå AIK,Frölunda HC
+6,43,2024-10-26,Färjestad BK,MoDo Hockey
+6,43,2024-10-26,Leksands IF,Malmö Redhawks
+6,43,2024-10-26,HV71,Luleå Hockey
+6,43,2024-10-26,Linköping HC,Örebro Hockey
+6,43,2024-10-26,Brynäs IF,Timrå IK
+6,43,2024-10-26,Rögle BK,Växjö Lakers
+7,44,2024-10-29,MoDo Hockey,Linköping HC
+7,44,2024-10-29,Timrå IK,Färjestad BK
+7,44,2024-10-29,Örebro Hockey,Leksands IF
+7,44,2024-10-29,Frölunda HC,Skellefteå AIK
+7,44,2024-10-29,Växjö Lakers,Rögle BK
+7,44,2024-10-29,Malmö Redhawks,Brynäs IF
+7,44,2024-10-31,Skellefteå AIK,Örebro Hockey
+7,44,2024-10-31,Färjestad BK,Luleå Hockey
+7,44,2024-10-31,Linköping HC,Malmö Redhawks
+7,44,2024-10-31,Frölunda HC,Timrå IK
+7,44,2024-10-31,Brynäs IF,Växjö Lakers
+7,44,2024-10-31,Rögle BK,MoDo Hockey
+7,44,2024-11-02,Luleå Hockey,Linköping HC
+7,44,2024-11-02,Frölunda HC,Brynäs IF
+7,44,2024-11-02,Malmö Redhawks,MoDo Hockey
+7,44,2024-11-02,Rögle BK,Färjestad BK
+7,44,2024-11-02,Leksands IF,Skellefteå AIK
+7,44,2024-11-02,Örebro Hockey,Timrå IK
+7,44,2024-11-02,HV71,Växjö Lakers
+8,46,2024-11-14,Skellefteå AIK,Malmö Redhawks
+8,46,2024-11-14,MoDo Hockey,Färjestad BK
+8,46,2024-11-14,Timrå IK,HV71
+8,46,2024-11-14,Leksands IF,Frölunda HC
+8,46,2024-11-14,Brynäs IF,Linköping HC
+8,46,2024-11-14,Växjö Lakers,Luleå Hockey
+8,46,2024-11-14,Örebro Hockey,Rögle BK
+8,46,2024-11-16,Linköping HC,Växjö Lakers
+8,46,2024-11-16,Brynäs IF,Luleå Hockey
+8,46,2024-11-16,Frölunda HC,MoDo Hockey
+8,46,2024-11-16,Malmö Redhawks,Rögle BK
+8,46,2024-11-16,Skellefteå AIK,HV71
+8,46,2024-11-16,Timrå IK,Leksands IF
+8,46,2024-11-16,Färjestad BK,Örebro Hockey
+9,47,2024-11-18,Luleå Hockey,HV71
+9,47,2024-11-21,Luleå Hockey,Malmö Redhawks
+9,47,2024-11-21,MoDo Hockey,Örebro Hockey
+9,47,2024-11-21,Linköping HC,Leksands IF
+9,47,2024-11-21,Frölunda HC,Färjestad BK
+9,47,2024-11-21,Växjö Lakers,Skellefteå AIK
+9,47,2024-11-21,HV71,Brynäs IF
+9,47,2024-11-21,Rögle BK,Timrå IK
+9,47,2024-11-23,Frölunda HC,Rögle BK
+9,47,2024-11-23,Färjestad BK,HV71
+9,47,2024-11-23,Brynäs IF,Skellefteå AIK
+9,47,2024-11-23,Leksands IF,Luleå Hockey
+9,47,2024-11-23,Växjö Lakers,MoDo Hockey
+9,47,2024-11-23,Örebro Hockey,Linköping HC
+9,47,2024-11-23,Malmö Redhawks,Timrå IK
+10,48,2024-11-26,Skellefteå AIK,Luleå Hockey
+10,48,2024-11-26,Timrå IK,Linköping HC
+10,48,2024-11-26,Färjestad BK,Växjö Lakers
+10,48,2024-11-26,Leksands IF,MoDo Hockey
+10,48,2024-11-26,HV71,Örebro Hockey
+10,48,2024-11-26,Malmö Redhawks,Frölunda HC
+10,48,2024-11-26,Rögle BK,Brynäs IF
+10,48,2024-11-28,Luleå Hockey,Rögle BK
+10,48,2024-11-28,MoDo Hockey,HV71
+10,48,2024-11-28,Leksands IF,Brynäs IF
+10,48,2024-11-28,Örebro Hockey,Frölunda HC
+10,48,2024-11-28,Växjö Lakers,Timrå IK
+10,48,2024-11-28,Malmö Redhawks,Färjestad BK
+10,48,2024-11-30,Skellefteå AIK,Rögle BK
+10,48,2024-11-30,MoDo Hockey,Timrå IK
+10,48,2024-11-30,Brynäs IF,Örebro Hockey
+10,48,2024-11-30,Luleå Hockey,Frölunda HC
+10,48,2024-11-30,Leksands IF,Färjestad BK
+10,48,2024-11-30,HV71,Linköping HC
+10,48,2024-11-30,Växjö Lakers,Malmö Redhawks
+11,49,2024-12-05,Skellefteå AIK,MoDo Hockey
+11,49,2024-12-05,Timrå IK,Brynäs IF
+11,49,2024-12-05,Örebro Hockey,Luleå Hockey
+11,49,2024-12-05,Färjestad BK,Linköping HC
+11,49,2024-12-05,Frölunda HC,Växjö Lakers
+11,49,2024-12-05,HV71,Malmö Redhawks
+11,49,2024-12-05,Rögle BK,Leksands IF
+11,49,2024-12-07,MoDo Hockey,Brynäs IF
+11,49,2024-12-07,Timrå IK,Luleå Hockey
+11,49,2024-12-07,Örebro Hockey,Malmö Redhawks
+11,49,2024-12-07,Färjestad BK,Skellefteå AIK
+11,49,2024-12-07,Leksands IF,Växjö Lakers
+11,49,2024-12-07,Linköping HC,Frölunda HC
+11,49,2024-12-07,Rögle BK,HV71
+12,51,2024-12-19,Luleå Hockey,MoDo Hockey
+12,51,2024-12-19,Skellefteå AIK,Timrå IK
+12,51,2024-12-19,Frölunda HC,HV71
+12,51,2024-12-19,Linköping HC,Rögle BK
+12,51,2024-12-19,Växjö Lakers,Örebro Hockey
+12,51,2024-12-19,Brynäs IF,Färjestad BK
+12,51,2024-12-19,Malmö Redhawks,Leksands IF
+13,52,2024-12-26,Leksands IF,Timrå IK
+13,52,2024-12-26,Frölunda HC,Linköping HC
+13,52,2024-12-26,HV71,Luleå Hockey
+13,52,2024-12-26,Malmö Redhawks,Växjö Lakers
+13,52,2024-12-26,Färjestad BK,Rögle BK
+13,52,2024-12-26,Örebro Hockey,Skellefteå AIK
+13,52,2024-12-26,Brynäs IF,MoDo Hockey
+13,52,2024-12-28,Timrå IK,Örebro Hockey
+13,52,2024-12-28,Linköping HC,HV71
+13,52,2024-12-28,Skellefteå AIK,Frölunda HC
+13,52,2024-12-28,Leksands IF,Rögle BK
+13,52,2024-12-28,MoDo Hockey,Malmö Redhawks
+13,52,2024-12-28,Växjö Lakers,Brynäs IF
+13,52,2024-12-28,Luleå Hockey,Färjestad BK
+14,53,2024-12-30,Färjestad BK,MoDo Hockey
+14,53,2024-12-30,Frölunda HC,Luleå Hockey
+14,53,2024-12-30,Örebro Hockey,Växjö Lakers
+14,53,2024-12-30,HV71,Skellefteå AIK
+14,53,2024-12-30,Brynäs IF,Timrå IK
+14,53,2024-12-30,Rögle BK,Leksands IF
+14,53,2024-12-30,Malmö Redhawks,Linköping HC
+14,1,2024-01-04,Skellefteå AIK,Färjestad BK
+14,1,2024-01-04,Luleå Hockey,Örebro Hockey
+14,1,2024-01-04,Växjö Lakers,Linköping HC
+14,1,2024-01-04,Timrå IK,MoDo Hockey
+14,1,2024-01-04,Frölunda HC,Leksands IF
+14,1,2024-01-04,Malmö Redhawks,HV71
+14,1,2024-01-04,Brynäs IF,Rögle BK
+15,2,2024-01-07,Luleå Hockey,Leksands IF
+15,2,2024-01-07,MoDo Hockey,Skellefteå AIK
+15,2,2024-01-07,Timrå IK,Växjö Lakers
+15,2,2024-01-07,Färjestad BK,Malmö Redhawks
+15,2,2024-01-07,Linköping HC,Brynäs IF
+15,2,2024-01-07,HV71,Frölunda HC
+15,2,2024-01-07,Rögle BK,Örebro Hockey
+15,2,2024-01-09,Skellefteå AIK,Linköping HC
+15,2,2024-01-09,MoDo Hockey,Rögle BK
+15,2,2024-01-09,Leksands IF,Brynäs IF
+15,2,2024-01-09,Örebro Hockey,Färjestad BK
+15,2,2024-01-09,HV71,Timrå IK
+15,2,2024-01-09,Växjö Lakers,Frölunda HC
+15,2,2024-01-09,Malmö Redhawks,Luleå Hockey
+15,2,2024-01-11,Frölunda HC,Örebro Hockey
+15,2,2024-01-11,Brynäs IF,Malmö Redhawks
+15,2,2024-01-11,Växjö Lakers,HV71
+15,2,2024-01-11,Rögle BK,Luleå Hockey
+15,2,2024-01-11,Timrå IK,Skellefteå AIK
+15,2,2024-01-11,Färjestad BK,Leksands IF
+15,2,2024-01-11,Linköping HC,MoDo Hockey
+16,3,2024-01-16,Leksands IF,Örebro Hockey
+16,3,2024-01-16,HV71,Färjestad BK
+16,3,2024-01-16,Rögle BK,Frölunda HC
+16,3,2024-01-16,Luleå Hockey,Brynäs IF
+16,3,2024-01-16,Skellefteå AIK,Växjö Lakers
+16,3,2024-01-16,Timrå IK,Malmö Redhawks
+16,3,2024-01-16,MoDo Hockey,Linköping HC
+16,3,2024-01-18,Luleå Hockey,Växjö Lakers
+16,3,2024-01-18,Skellefteå AIK,Brynäs IF
+16,3,2024-01-18,Linköping HC,Timrå IK
+16,3,2024-01-18,HV71,Rögle BK
+16,3,2024-01-18,Leksands IF,Malmö Redhawks
+16,3,2024-01-18,Örebro Hockey,MoDo Hockey
+16,3,2024-01-18,Färjestad BK,Frölunda HC
+17,4,2024-01-23,MoDo Hockey,Luleå Hockey
+17,4,2024-01-23,Timrå IK,Frölunda HC
+17,4,2024-01-23,Linköping HC,Färjestad BK
+17,4,2024-01-23,Växjö Lakers,Leksands IF
+17,4,2024-01-23,Brynäs IF,HV71
+17,4,2024-01-23,Rögle BK,Skellefteå AIK
+17,4,2024-01-23,Malmö Redhawks,Örebro Hockey
+17,4,2024-01-25,Leksands IF,Linköping HC
+17,4,2024-01-25,Färjestad BK,Brynäs IF
+17,4,2024-01-25,Örebro Hockey,HV71
+17,4,2024-01-25,MoDo Hockey,Frölunda HC
+17,4,2024-01-25,Luleå Hockey,Timrå IK
+17,4,2024-01-25,Rögle BK,Växjö Lakers
+17,4,2024-01-25,Malmö Redhawks,Skellefteå AIK
+18,5,2024-01-28,Skellefteå AIK,Leksands IF
+18,5,2024-01-28,Timrå IK,Rögle BK
+18,5,2024-01-28,Örebro Hockey,Brynäs IF
+18,5,2024-01-28,Frölunda HC,Malmö Redhawks
+18,5,2024-01-28,Linköping HC,Luleå Hockey
+18,5,2024-01-28,HV71,MoDo Hockey
+18,5,2024-01-28,Växjö Lakers,Färjestad BK
+18,5,2024-01-30,MoDo Hockey,Växjö Lakers
+18,5,2024-01-30,Färjestad BK,Timrå IK
+18,5,2024-01-30,Leksands IF,HV71
+18,5,2024-01-30,Linköping HC,Örebro Hockey
+18,5,2024-01-30,Brynäs IF,Frölunda HC
+18,5,2024-01-30,Rögle BK,Malmö Redhawks
+18,5,2024-01-30,Skellefteå AIK,Luleå Hockey
+18,5,2024-02-01,Timrå IK,Luleå Hockey
+18,5,2024-02-01,Frölunda HC,Växjö Lakers
+18,5,2024-02-01,Skellefteå AIK,Malmö Redhawks
+18,5,2024-02-01,MoDo Hockey,Färjestad BK
+18,5,2024-02-01,HV71,Leksands IF
+18,5,2024-02-01,Brynäs IF,Örebro Hockey
+18,5,2024-02-01,Rögle BK,Linköping HC
+20,7,2024-02-11,Luleå Hockey,Linköping HC
+19,7,2024-02-11,Timrå IK,HV71
+19,7,2024-02-11,Leksands IF,Färjestad BK
+19,7,2024-02-11,Frölunda HC,Skellefteå AIK
+19,7,2024-02-11,Örebro Hockey,Rögle BK
+19,7,2024-02-11,Växjö Lakers,MoDo Hockey
+19,7,2024-02-11,Malmö Redhawks,Brynäs IF
+19,7,2024-02-13,Skellefteå AIK,Örebro Hockey
+19,7,2024-02-13,Färjestad BK,Växjö Lakers
+19,7,2024-02-13,Linköping HC,Leksands IF
+19,7,2024-02-13,Frölunda HC,MoDo Hockey
+19,7,2024-02-13,Brynäs IF,Luleå Hockey
+19,7,2024-02-13,HV71,Malmö Redhawks
+19,7,2024-02-13,Rögle BK,Timrå IK
+19,7,2024-02-15,Skellefteå AIK,HV71
+19,7,2024-02-15,MoDo Hockey,Leksands IF
+19,7,2024-02-15,Brynäs IF,Linköping HC
+19,7,2024-02-15,Malmö Redhawks,Timrå IK
+19,7,2024-02-15,Växjö Lakers,Luleå Hockey
+19,7,2024-02-15,Rögle BK,Färjestad BK
+19,7,2024-02-15,Örebro Hockey,Frölunda HC
+20,8,2024-02-20,Luleå Hockey,Rögle BK
+20,8,2024-02-20,Timrå IK,Brynäs IF
+20,8,2024-02-20,Leksands IF,MoDo Hockey
+20,8,2024-02-20,HV71,Frölunda HC
+20,8,2024-02-20,Örebro Hockey,Linköping HC
+20,8,2024-02-20,Växjö Lakers,Malmö Redhawks
+20,8,2024-02-20,Färjestad BK,Skellefteå AIK
+20,8,2024-02-22,MoDo Hockey,Brynäs IF
+20,8,2024-02-22,Luleå Hockey,Malmö Redhawks
+20,8,2024-02-22,Linköping HC,Frölunda HC
+20,8,2024-02-22,Skellefteå AIK,Rögle BK
+20,8,2024-02-22,Timrå IK,Leksands IF
+20,8,2024-02-22,Färjestad BK,Örebro Hockey
+20,8,2024-02-22,HV71,Växjö Lakers
+21,9,2024-02-25,Luleå Hockey,Skellefteå AIK
+21,9,2024-02-25,MoDo Hockey,Örebro Hockey
+21,9,2024-02-25,Timrå IK,Frölunda HC
+21,9,2024-02-25,Linköping HC,Växjö Lakers
+21,9,2024-02-25,Brynäs IF,Leksands IF
+21,9,2024-02-25,Malmö Redhawks,Färjestad BK
+21,9,2024-02-25,Rögle BK,HV71
+21,9,2024-02-27,Luleå Hockey,HV71
+21,9,2024-02-27,Färjestad BK,Linköping HC
+21,9,2024-02-27,Leksands IF,Skellefteå AIK
+21,9,2024-02-27,Örebro Hockey,Timrå IK
+21,9,2024-02-27,Frölunda HC,Brynäs IF
+21,9,2024-02-27,Växjö Lakers,Rögle BK
+21,9,2024-02-27,Malmö Redhawks,MoDo Hockey
+21,9,2024-03-01,Timrå IK,Färjestad BK
+21,9,2024-03-01,HV71,Brynäs IF
+21,9,2024-03-01,Rögle BK,MoDo Hockey
+21,9,2024-03-01,Växjö Lakers,Örebro Hockey
+21,9,2024-03-01,Leksands IF,Luleå Hockey
+21,9,2024-03-01,Linköping HC,Skellefteå AIK
+21,9,2024-03-02,Malmö Redhawks,Frölunda HC
+22,10,2024-03-04,Skellefteå AIK,Timrå IK
+22,10,2024-03-04,Färjestad BK,Luleå Hockey
+22,10,2024-03-04,MoDo Hockey,HV71
+22,10,2024-03-04,Linköping HC,Malmö Redhawks
+22,10,2024-03-04,Örebro Hockey,Leksands IF
+22,10,2024-03-04,Brynäs IF,Växjö Lakers
+22,10,2024-03-04,Frölunda HC,Rögle BK
+22,10,2024-03-06,Luleå Hockey,MoDo Hockey
+22,10,2024-03-06,Timrå IK,Linköping HC
+22,10,2024-03-06,Frölunda HC,Färjestad BK
+22,10,2024-03-06,HV71,Örebro Hockey
+22,10,2024-03-06,Rögle BK,Brynäs IF
+22,10,2024-03-06,Malmö Redhawks,Leksands IF
+22,10,2024-03-06,Växjö Lakers,Skellefteå AIK
+22,10,2024-03-08,Leksands IF,Växjö Lakers
+22,10,2024-03-08,Linköping HC,Rögle BK
+22,10,2024-03-08,Brynäs IF,Skellefteå AIK
+22,10,2024-03-08,Luleå Hockey,Frölunda HC
+22,10,2024-03-08,MoDo Hockey,Timrå IK
+22,10,2024-03-08,Färjestad BK,HV71
+22,10,2024-03-08,Örebro Hockey,Malmö Redhawks
+23,11,2024-03-11,Skellefteå AIK,MoDo Hockey
+23,11,2024-03-11,Örebro Hockey,Luleå Hockey
+23,11,2024-03-11,Leksands IF,Frölunda HC
+23,11,2024-03-11,Brynäs IF,Färjestad BK
+23,11,2024-03-11,HV71,Linköping HC
+23,11,2024-03-11,Malmö Redhawks,Rögle BK
+23,11,2024-03-11,Växjö Lakers,Timrå IK
