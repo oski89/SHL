@@ -52,26 +52,36 @@ def start_scrape_session():
     time.sleep(5)
     return driver
 
-def navigate_to_all_players_tab(driver):
-    try:
-        # Use XPath to click the correct tab by its data-target
-        all_players_tab = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//a[@data-target='#allplayers']"))
-        )
-        all_players_tab.click()
-        time.sleep(3)
-    except Exception as e:
-        print("Could not navigate to 'Alla Spelare' tab:", e)
+def normalize_label(text):
+    return text.lower().replace(" ", "_").replace("ä", "a").replace("ö", "o").replace("/", "_")
 
 def get_stat_headers(driver):
     try:
-        header_cells = driver.find_elements(By.CSS_SELECTOR, "thead tr th.data")
-        return [cell.text.strip().lower().replace(" ", "_") for cell in header_cells]
-    except:
+        header_cells = driver.find_elements(By.CSS_SELECTOR, "thead th")
+        headers = []
+        for i, cell in enumerate(header_cells):
+            title = cell.get_attribute("title").strip() if cell.get_attribute("title") else ""
+            text = cell.text.strip()
+            raw = title or text or f"stat_{i+1}"
+            label = normalize_label(raw)
+            # Remove "poang_for_" prefix from labels 4 to 22 (adjusting by 3 for name/pos/price)
+            if 3 <= i < 22 and label.startswith("poang_for_"):
+                label = label.replace("poang_for_", "")
+            headers.append(label)
+        print("Detected column headers:", headers)
+        return headers
+    except Exception as e:
+        print("Failed to extract headers:", e)
         return []
 
 def scrape_player_stats(driver):
-    navigate_to_all_players_tab(driver)
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+
+    WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.XPATH, "//a[@data-target='#allplayers']"))
+    ).click()
     time.sleep(5)
 
     players = []
@@ -93,25 +103,32 @@ def scrape_player_stats(driver):
             }
 
             for i, stat in enumerate(stats):
-                key = stat_labels[i] if i < len(stat_labels) else f"stat_{i+1}"
+                key = stat_labels[i + 3] if i + 3 < len(stat_labels) else f"stat_{i+1}"
                 player_data[key] = stat
 
-            players.append(player_data)
-        except Exception as e:
+            # Skip rows with no meaningful data
+            if any(value.strip() for value in player_data.values() if isinstance(value, str)):
+                players.append(player_data)
+        except Exception:
             continue
 
     print(f"Extracted {len(players)} players.")
     return players
 
 def export_to_csv(players, filename):
+    import pandas as pd
+
     if not players:
         print("No data to export.")
         return
-    keys = players[0].keys()
-    with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=keys)
-        writer.writeheader()
-        writer.writerows(players)
+
+    df = pd.DataFrame(players)
+
+    # Drop columns that are entirely empty (like stat_24/stat_25)
+    df.dropna(axis=1, how='all', inplace=True)
+
+    # Save cleaned DataFrame
+    df.to_csv(filename, index=False)
     print(f"Data exported to {filename}")
 
 if __name__ == "__main__":
